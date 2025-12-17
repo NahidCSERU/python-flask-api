@@ -3,7 +3,7 @@ pipeline {
 
     environment {
         IMAGE_NAME = "nahidaws/python-demo"
-        IMAGE_TAG  = "v2"
+        IMAGE_TAG  = "v3"
     }
 
     stages {
